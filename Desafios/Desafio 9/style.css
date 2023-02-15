@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+iframe{
+    width: 600px;
+}
